@@ -1,0 +1,13 @@
+  <script src="https://use.typekit.net/xif5hiw.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+  <script src="/js/template.js"></script>
+  </body>
+  <nav>
+    <h3 class="cat">Categorieën:</h3>
+    <% for (var i = 0; i < categorieen.length; i++) { %>
+      <a class="cat2" href="/categorieen/<%- i %>"><%- categorieen[i] %></a>
+    <% } %>
+  </nav>
+
+  <script id="dsq-count-scr" src="//ahealthlife.disqus.com/count.js" async></script>
+</html>

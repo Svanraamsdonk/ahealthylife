@@ -1,0 +1,59 @@
+{
+    "nieuws":
+    [
+        {
+            "titel": "Importance of Sports in our Life",
+            "id": 212,
+            "datum": "18/05/2017 • 22:45",
+            "categorieen": ["categorie 1","categorie 2"],
+            "samenvatting": "A healthy nation is always a wealthy nation. Therefore, it is necessary to put emphasis on sports.",
+            "body": "<p> One can think of a healthy mind only in a healthy body. Both physical and mental well being are the prerequisites of great achievements in man’s life. History shows that young men who excelled in the field in sports could prove their worth in the battlefield as valiant soldiers in later life and get the laurels of victory. <br> <strong>Necessity of sports: Sports have their great utility. </strong>.</p>",
+            "afbeeldingl": "foto_fitness.jpg",
+            "afbeeldings": "foto_fitness1.jpg"
+        },
+        {  
+              "titel": "The perfect breakfast",
+              "id": 352,
+              "datum": "18/05/2017 • 22:45",
+              "categorieen": ["SuperFood","HealtyFood"],
+              "samenvatting": "A traditional dish eaten on the beaches of Brazil, açaí bowls are crazy popular around the world, and for a good reason.",
+              "body": "<p> A delicious way to start your day with clean energy and one of my all-time favorite breakfasts, an açaí bowl is super easy to make. The best part is that you can make it completely your own – depending on what you have available. Here is a little more about açaí,  some of my favorite ingredients and toppings, and top recipes for you to try! Be sure to tag #breakfastcriminals if you post your creations on Instagram. <h2> What is açaí? </h2> The açaí (ah-sigh-EE) berry is a grape-like fruit harvested from açaí palm trees, native to the rainforests of South America. You can find açaí in the form of frozen smoothie packs or freeze dried powder. We explain why frozen puree packs are always preferred over powder in this video.<h2> What is an açaí bowl? </h2> Açaí smoothie bowls – simply frozen açaí pulp blended with fruits and berries, and topped with banana, granola, coconut and other goodies, is one of my all-time favorite breakfasts.</strong>.</p>",
+              "afbeeldingl": "bowl.jpg",
+              "afbeeldings": "bowl.jpg"
+
+        },
+        {
+            "titel": "5 Reasons to Drink Organic Coffee",
+            "id": 198,
+            "datum": "19/05/2017 • 06:06",
+            "categorieen": ["HealtyDrinks"],
+            "samenvatting": "We live in a world where convenience has become the order of the day. This is one reason why processed foods have found a significant place in most pe...",
+            "body": "<p> We live in a world where convenience has become the order of the day. This is one reason why processed foods have found a significant place in most people’s daily diet. Often eating such food is only a matter of pouring it out of a packet and heating it. In a culture that propagates the use of everything that is convenience-based, the thought of having organic coffee can make one think twice..</p> <p> One of the notions about organic coffee include that it is bland. Another reason why people hesitate buying organic coffee is because it is thought to be expensive. As a result, non-organic coffee is consumed by most. We know you love your cuppa java, and you know drinking too much non-organic coffee can be bad for your health. So, why not switch to organic coffee and minimize the damage to your system?</p> <p> One of the best things about organic coffee is that it is grown without pesticides. This is extremely healthy not just for those who consume it, but also for the environment. Due to this, no chemicals are released into the air or the soil, which means they remain clean and there’s no risk of harmful substances entering the area’s water supply.</p>",
+            "afbeeldingl": "Coffee.jpg",
+            "afbeeldings": "Coffee1.jpg"
+        },
+
+        {
+            "titel": "Detox Water for Craving Control & Beautiful Skin",
+            "id": 535,
+            "datum": "19/05/2017 • 06:06",
+            "categorieen": ["OrganicFood","HealtyDrinks"],
+            "samenvatting": "One of my favorite weight loss topics to talk about is infused water!",
+            "body": "<p> Also called detox water, fruit flavored water, or fruit infused water; infused water can generally be any combination of fruits, vegetables, and herbs immersed in cold water. While infused water has the benefit of being full of flavor, it also has no calories, making it a very powerful tool in your efforts to lose weight and gain better health. For a full one week detox plan, check out my Detox Diet Week post and give your weight loss a kick start, try a detox smoothie, or a Detox Tea for a hot water detox drink..</p>",
+            "afbeeldingl": "detox.jpg",
+            "afbeeldings": "detox.jpg"
+        },
+
+
+
+          {  "titel": "Today's Healty food recepie ",
+            "id": 210,
+            "datum": "19/05/2017 • 08:43",
+            "categorieen": ["HealtyFood","SuperFood"],
+            "samenvatting": " Today's BBQ Tofu Corn Kale Ranch Salad is a meal in a bowl! This entree salad is loaded with healthy ingredients like kale, corn, carrots and of course hearty BBQ skillet tofu triangles on top and creamy silken tofu ranch dressing to make everything extra amazing. This country style salad is a delicious and easy dinner option for you and your family. These flavors will impress!..",
+            "body": "<h2>BBQ Tofu Corn Kale Ranch Salad.</h2> <ul><li>Salad Veggies:</li>  <li>1 bunch of organic kale</li><li>1 cup corn</li> <li>1 cup of radishes thinly sliced</li> <li>2 large carrots, grated</li> <li>BBQ Tofu:</li> <li>1 package House Foods Tofu, firm or extra-firm</li> <li>1/2 cup vegan BBQ sauce</li> <li>2 tsp extra virgin olive oil</li> <li>Ranch Dressing:</li> <li>1 package House Foods Tofu, soft</li> <li>Salad Veggies:</li> <li>2 Tbsp vegan mayo</li> <li>1/3 cup apple cider vinegar</li> <li>2-3 Tbsp agave or maple syrup</li> <li>3/4 tsp celery seed</li> <li>1 tsp coriander</li> <li>1/2 tsp garlic powder</li> <li>1/2 tsp onion powder</li> <li>1/4 tsp black pepper</li> <li>1/8 tsp cayenne (optional for a bit of heat)</li> <li>1/2 cup finely chopped parsley or chives (optional)</li> <li>**Feel free to add larger doses of the spices if you like a bolder ranch flavor</li> <li>Also: Vegan Parmesan Cheese </li> <li>1 cup blue corn chips, crushed</li></ul>",
+            "afbeeldingl": "Healty_food.png",
+            "afbeeldings": "Healty_food 1.png"
+        }
+    ]
+}
